@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Glenna Clifton"
   avatar           : "headshot.jpg" #"profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Portland, OR"
+  bio              : "Assistant Professor\nstudying how animals move in natural environments"
+  location         : 
   employer         : "University of Portland"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0bDvWRIAAAAJ&hl=en"
-  email            :
+  email            : "cliftong@up.edu"
   researchgate     :  "https://www.researchgate.net/profile/Glenna-Clifton" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
