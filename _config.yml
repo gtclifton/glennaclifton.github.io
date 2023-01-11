@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Glenna Clifton"
   avatar           : "headshot.jpg" #"profile.png"
-  bio              : "Assistant Professor\nstudying how animals move in natural environments"
+  bio              : "Assistant Professor of Biology at the University of Portland"
   location         : 
-  employer         : "University of Portland"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0bDvWRIAAAAJ&hl=en"
   email            : "cliftong@up.edu"
