@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About
+About me
 ======
 Dr. Glenna Clifton is an Assistant Professor at the [University of Portland](https://www.up.edu/), located in Portland, OR. Combining approaches from multiple disciplines, Dr. Clifton aims to understand how animals move. Current projects in the Clifton lab include: analyzing how crabs walk over uneven terrain, exposing wild lady beetles to high temperatures to measure the impact on walking performance, relating evolutionary patterns in webbed foot anatomy to bird swimming ability, and comparing how heel-landing technique influences small ballet jumps.
 
