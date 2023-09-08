@@ -21,6 +21,9 @@ Academic Positions
   * University of California, San Diego
   * Advisor: Nicholas Gravish
   
+* 2015: Instructor of Record
+  * Tufts University, Experimental College
+  
 
 Education
 ======

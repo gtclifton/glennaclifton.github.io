@@ -21,7 +21,7 @@ As an educator, Dr. Clifton strives to encourage scientific thinking and an appr
 
 Join the lab !
 ======
-Are you an undergraduate student looking for to experience scientific research, with interests in biomechanics, morphology, evolution, physics, coding, or videography? Click on the [Info for Students](https://github.com/glennaclifton/glennaclifton.github.iostudents/) tab to learn about joining the lab. 
+Are you an undergraduate student looking for to experience scientific research, with interests in biomechanics, morphology, evolution, animal behavior, physics, coding, or videography? Click on the [Info for Students](https://github.com/glennaclifton/glennaclifton.github.iostudents/) tab to learn about joining the lab. 
 
 **Recommendation Letters**
 
