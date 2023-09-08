@@ -13,16 +13,16 @@ redirect_from:
 
 Academic Positions
 ======
-* 2020-Present: Assistant Professor, Biology
-  * University of Portland
-  * Duties included: Tagging issues
+2020-Present: Assistant Professor, Biology <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;University of Portland
 
-* 2017-2020: Postdoctoral Fellow, Mechanical and Aerospace Engineering
-  * University of California, San Diego
-  * Advisor: Nicholas Gravish
-  
-* 2015: Instructor of Record
-  * Tufts University, Experimental College
+
+2017-2020: Postdoctoral Fellow, Mechanical and Aerospace Engineering <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;University of California, San Diego <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Advisor: Nicholas Gravish
+
+2015: Instructor of Record <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Tufts University, Experimental College
   
 
 Education
