@@ -13,7 +13,7 @@ name                     : &name "Glenna Clifton"
 description              : &description "personal description"
 url                      : https://gtclifton.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "/about" # the subpath of your site, e.g. "/blog"
-repository               : "gtclifton/glennaclifton.github.io.git" # "gtclifton/gtclifton.github.io"
+repository               : "gtclifton/gtclifton.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" #"gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
