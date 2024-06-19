@@ -11,7 +11,7 @@ title                    : "Glenna Clifton"
 title_separator          : "-"
 name                     : &name "Glenna Clifton"
 description              : &description "personal description"
-url                      : https://gtclifton.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gtclifton.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "/about" # the subpath of your site, e.g. "/blog"
 repository               : "gtclifton/gtclifton.github.io"
 
